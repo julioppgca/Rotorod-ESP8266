@@ -1,3 +1,6 @@
+// Rotorod Sampler Test
+// Author: Júlio Santos - julio.ppgca@gmail.com
+
 /* -- Software parameters --*/
 #define DEFAULT_MOTOR_ON_TIME       6         //in minutes
 #define DEFAULT_MOTOR_OFF_TIME      54        //in minutes
