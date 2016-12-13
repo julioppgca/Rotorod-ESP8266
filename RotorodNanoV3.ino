@@ -2,9 +2,9 @@
 // Author: Júlio Santos - julio.ppgca@gmail.com
 
 /* -- Software parameters --*/
+#define DEFAULT_TOTAL_SAMPLE_TIME   24        //in hours
 #define DEFAULT_MOTOR_ON_TIME       6         //in minutes
-#define DEFAULT_MOTOR_OFF_TIME      54        //in minutes
-#define DEFAULT_TOTAL_SAMPLE_TIME   5         //in hours   
+#define DEFAULT_MOTOR_OFF_TIME      54        //in minutes   
 #define ONE_SEC                     10000//1000000   //in microseconds, 1e6 is one second.
 #define UART_BAUDRATE               115200    //uart baudrate setting
 
