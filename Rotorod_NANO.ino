@@ -4,7 +4,7 @@
 /* -- Software parameters --*/
 #define DEFAULT_MOTOR_ON_TIME       6         //in minutes
 #define DEFAULT_MOTOR_OFF_TIME      54        //in minutes
-#define DEFAULT_TOTAL_SAMPLE_TIME   2         //in hours   
+#define DEFAULT_TOTAL_SAMPLE_TIME   24        //in hours   
 #define DEFAULT_MOTOR_SPEED         240       // need to be validated 0..255 -> 0..2440RPM
 #define MOTOR_STOP                  0
 #define ONE_SEC                     1000000   //in microseconds, 1e6 is one second.
